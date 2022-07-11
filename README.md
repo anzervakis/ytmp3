@@ -9,7 +9,7 @@
     3. Video stats will be displayed and the download will start.
 <p>
 <p>
-    *the video will be downloaded on the same file as the application
+    *the video will be downloaded on the same folder as the application
 </p>
 <img src='ytdownloadervideoimage.png'>
 <br><br><br>
@@ -20,6 +20,6 @@
     3. Playlist stats will be displayed and the download will start.
 <p>
 <p>
-    *the videos will be downloaded on the same file as the application
+    *the videos will be downloaded on the same folder as the application
 </p>
 <img src='ytdownloaderplaylistimage.png'>
