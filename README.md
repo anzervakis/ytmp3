@@ -1,6 +1,6 @@
-<h1 class='title' style="text-align: center;">YouTube to mp4 Converter</h1>
+<h1 style="text-align: center;">YouTube to mp4 Converter</h1>
 <hr>
-<p>This application allows users to download YouTube <span class='underline' style="font-weight: bold;">videos</span> and <span class='underline' style="font-weight: bold;">playlists</span> using CMD.</p>
+<p>This application allows users to download YouTube <span style="font-weight: bold;">videos</span> and <span style="font-weight: bold;">playlists</span> using CMD.</p>
 <br><br><br>
 <p>How to download videos:</p>
 <p>1. Type "video" on input request ("Playlist or Video")</p>
